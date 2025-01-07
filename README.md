@@ -11,4 +11,6 @@ elastic search에서 구현한 파이프 라인을 streamlit 연결
 
 * 실시간 도소매 가격변동 정보 제공(대시보드)
 실시간 가격 정보를 제공해줌으로써 농장과 소비자간 중개 역할
-   
+
+## 전체 구조도
+![image](https://github.com/user-attachments/assets/dece9d9a-b517-4f97-b2c6-c35201b5cdd4)
